@@ -1,7 +1,7 @@
 # Agri-agent: AI-Powered Agriculture Platform
 
 An intelligent web platform for smart and sustainable agriculture using Python, Streamlit, LangChain, and advanced ML models.
-App-https://91162cb2-db70-41a0-9c25-14c213ea828b-00-29ngewlxsemi2.sisko.replit.dev/
+App-https://agri-agent--loshalikrishna1.replit.app
 ## 🌾 Features
 
 ### Core Features
@@ -373,4 +373,5 @@ For questions and support:
 ---
 
 **Made with 💚 for sustainable agriculture**
+
 
